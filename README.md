@@ -53,20 +53,20 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
-```
-HALF ADDER
-module half_adder( a,b, sum, cout );
-input a,b;
-output sum,  cout;
-xor xor_1 (sum,a,b);
-and and_1 (cout,a,b);
-endmodule
-```
+
+![Screenshot 2024-12-13 131947](https://github.com/user-attachments/assets/66079c3b-658e-444f-95e0-531bde8a00c7)
+
 **RTL Schematic**
+
+![Screenshot 2024-12-13 132013](https://github.com/user-attachments/assets/517c1c19-2176-4f48-8d06-b9cefb9dc94b)
+
 
 **Output/TIMING Waveform**
 
+![Screenshot 2024-12-13 132035](https://github.com/user-attachments/assets/80290bc4-1917-4cc4-b843-78060dc01528)
+
+
 **Result:**
 ```
-To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
+To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming is verified
 ```
